@@ -6,6 +6,6 @@ def roll
   # code goes here
 end
 
-random = rand(6)
+random = rand(1..7)
 
 puts random
