@@ -8,4 +8,4 @@ end
 
 random = rand(6)
 
-puts rand
+puts random
